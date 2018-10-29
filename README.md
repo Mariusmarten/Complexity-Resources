@@ -17,3 +17,10 @@ Important are Linear Algebra, Probability Theory and Statistics, Regression, Mul
 
 ## 
 https://www.complexityexplorer.org/courses
+
+Complexity: 
+-complexity lab 
+-courses! 
+-books 
+-graph theory (math)
+-software 
