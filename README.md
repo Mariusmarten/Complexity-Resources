@@ -2,7 +2,7 @@
 From Basic to Advanced
 
 
-* [1. Basics in Complexity](#3-prerequisites-programming)
+* [1. Basics in Complexity](#basics_in_comlexity)
 * [2. Advanced Complex Systems](#3-prerequisites-programming)
 * [3. Complexity Research](#3-prerequisites-programming)
 
@@ -15,8 +15,8 @@ deep simplicity
 
 
 ## Advanced Complex Systems
-* [Website: ComplexityLabs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
-* [Videos: ComplexityLabs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
+* [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
+* [Videos: Complexity Labs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
 
 
 https://www.complexityexplorer.org/courses
