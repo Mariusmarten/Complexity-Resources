@@ -26,6 +26,8 @@ https://www.complexityexplorer.org/courses
 
 * [Course: Coursera - Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity): flows in networks, linear programming, NP-complete problems, streaming algorithms
 
+* [Courses: Coursera - Specialisation Systems Biology](https://www.coursera.org/specializations/systems-biology):
+
 * [Courses: Universities in Netherlands - Complexity Science Courses](http://ias.uva.nl/binaries/content/assets/subsites/uva-institute-for-advanced-studies/course-list-ias-final.pdf?2977919327694.): simplifing complexity, self-organization, complex network, complex systems, complexity and networks, complex system simulation, agent-based modeling, systems biology, complexity and behavior
 
 Complexity: 
