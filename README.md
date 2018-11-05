@@ -19,6 +19,7 @@ deep simplicity
 * [Videos: Complexity Labs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
 
 
+
 https://www.complexityexplorer.org/courses
 
 
