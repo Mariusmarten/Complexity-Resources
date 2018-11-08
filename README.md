@@ -35,3 +35,5 @@ Complexity:
 -courses! 
 -graph theory (math)
 -software 
+
+Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur) (https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
