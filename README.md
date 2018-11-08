@@ -12,6 +12,7 @@ From Basic to Advanced
 
 deep simplicity 
 
+Complexity talks on reddit
 
 
 ## Advanced Complex Systems
