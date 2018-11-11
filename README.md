@@ -48,6 +48,8 @@ Resources systems neuroscience / complex systems
 - Complexity lab 
 - Code examples 
 
+paper: Complex Systems: A Survey - M. E. J. Newman
+
 Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur) (https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
 
 ## Other resources for 'the bigger picture'
