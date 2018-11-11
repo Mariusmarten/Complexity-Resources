@@ -48,4 +48,4 @@ Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (II
 * [Website: Map of Science](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0004803.g005)
 
 
-* [Videps: Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A: map of science, map of physics, map of computer science, map of chemistry, map of biology
+* [Videps: Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A): map of science, map of physics, map of computer science, map of chemistry, map of biology
