@@ -12,7 +12,11 @@ From Basic to Advanced
 
 deep simplicity 
 
-Complexity talks on reddit
+Complexity talks on reddit 
+
+* [Website: Reddit - Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
+
+* [Website: Information is beautiful](https://informationisbeautiful.net)
 
 
 ## Advanced Complex Systems
