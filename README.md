@@ -41,6 +41,13 @@ Complexity:
 -graph theory (math)
 -software 
 
+Resources systems neuroscience / complex systems 
+- poincare, Mandelbrot etc. Paper 
+- MIT books
+- Courses (computational) 
+- Complexity lab 
+- Code examples 
+
 Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur) (https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
 
 ## Other resources for 'the bigger picture'
