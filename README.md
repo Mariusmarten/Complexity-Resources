@@ -54,6 +54,10 @@ Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (II
 
 ## Other resources for 'the bigger picture'
 
+-homo Sapiens/ homo deus 
+-opendatascience
+-podcast: datasceptic 
+
 * [Website: Map of Science](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0004803.g005)
 
 
