@@ -5,6 +5,7 @@ From Basic to Advanced
 * [1. Basics in Complexity](#basics_in_comlexity)
 * [2. Advanced Complex Systems](#3-prerequisites-programming)
 * [3. Complexity Research](#3-prerequisites-programming)
+* [Other Resources](#3-prerequisites-programming)
 
 ## Basics in Complexity: 
 
@@ -52,7 +53,7 @@ paper: Complex Systems: A Survey - M. E. J. Newman
 
 Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur) (https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
 
-## Other resources for 'the bigger picture'
+## Other Resources 
 
 -homo Sapiens/ homo deus 
 -opendatascience
