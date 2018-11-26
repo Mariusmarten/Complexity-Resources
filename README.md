@@ -7,7 +7,7 @@ From Basic to Advanced
 * [3. Complexity Research](#3-prerequisites-programming)
 * [Other Resources](#3-prerequisites-programming)
 
-## Basics in Complexity: 
+## Basics in Complexity:
 
 * [Book: James Gleick - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/ref=sr_1_1?ie=UTF8&qid=1540898509&sr=8-1&keywords=chaos+james+gleick): history of chaos in science; butterfly effect, scientific revolution, modeling wildlife popultion, nonlinear science, bifurcations, fractal geometry, phase space, Feigenbaum, Mandelbrot set, information theory, micro to macroscale, dynamical heart
 
@@ -18,6 +18,11 @@ Complexity talks on reddit
 * [Website: Reddit - Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
 
 * [Website: Information is beautiful](https://informationisbeautiful.net)
+
+* [Video: Kurzgesagt(In a nutshell) - Emergence_How Stupid Things Become Smart Together](https://www.youtube.com/watch?v=16W7c0mb-rE&t=7s)
+
+* [Video: Stanford/Robert Sapolsky - Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
+* [Video: Stanford/Robert Sapolsky - Emergence and Complexity](https://www.youtube.com/watch?v=o_ZuWbX-CyE&t=537s)
 
 
 ## Advanced Complex Systems
@@ -52,6 +57,8 @@ Resources systems neuroscience / complex systems
 paper: Complex Systems: A Survey - M. E. J. Newman
 
 Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur) (https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
+
+Add software of cellular automata, artificial life 
 
 ## Other Resources 
 
