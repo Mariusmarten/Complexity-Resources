@@ -57,9 +57,10 @@ Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (II
 
 -homo Sapiens/ homo deus 
 -opendatascience
--podcast: datasceptic 
+
+
+* [Podcast: Human Current - Complexity science & systems thinking in the workplace and beyond](http://www.human-current.com/#intro)
+* [Podcast: Datasceptic - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.](https://dataskeptic.com)
 
 * [Website: Map of Science](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0004803.g005)
-
-
 * [Videps: Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A): map of science, map of physics, map of computer science, map of chemistry, map of biology
