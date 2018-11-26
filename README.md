@@ -62,12 +62,15 @@ Add software of cellular automata, artificial life
 
 ## Other Resources 
 
--homo Sapiens/ homo deus 
+Book: homo Sapiens/ homo deus 
+
 -opendatascience
 
-* [Videos: Kurzgesagt_In a Nutshell - Make science look beautiful](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+* [Website: Brilliant - free problems and examples in math, science, and engineering](https://brilliant.org)
+* [Website: Khan Academy - varioius online lectures and courses](https://www.khanacademy.org/)
+* [Website: Map of Science](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0004803.g005)
+* [Videos: Kurzgesagt_In a Nutshell - Make science look beautiful](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
+* [Videps: Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A): map of science, map of physics, map of computer science, map of chemistry, map of biology
 * [Podcast: Human Current - Complexity science & systems thinking in the workplace and beyond](http://www.human-current.com/#intro)
 * [Podcast: Datasceptic - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.](https://dataskeptic.com)
 
-* [Website: Map of Science](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0004803.g005)
-* [Videps: Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A): map of science, map of physics, map of computer science, map of chemistry, map of biology
