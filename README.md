@@ -58,7 +58,7 @@ Lecture Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (II
 -homo Sapiens/ homo deus 
 -opendatascience
 
-
+* [Videos: Kurzgesagt_In a Nutshell - Make science look beautiful](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 * [Podcast: Human Current - Complexity science & systems thinking in the workplace and beyond](http://www.human-current.com/#intro)
 * [Podcast: Datasceptic - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.](https://dataskeptic.com)
 
