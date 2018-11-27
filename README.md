@@ -62,6 +62,9 @@ Add software of cellular automata, artificial life
 
 ## Other Resources 
 
+#### Persons to follow:
+
+
 Book: homo Sapiens/ homo deus 
 
 -opendatascience
