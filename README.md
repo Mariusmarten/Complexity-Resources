@@ -60,7 +60,7 @@ paper: Complex Systems: A Survey - M. E. J. Newman
 
 Add software of cellular automata, artificial life 
 ## Software
-* [Software: Chaos - Book from James Gleich](https://github.com/rudyrucker/chaos)
+* [Software: Chaos - Book from James Gleick](https://github.com/rudyrucker/chaos)
 
 
 Cellular automata:
