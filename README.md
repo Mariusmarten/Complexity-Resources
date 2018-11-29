@@ -65,6 +65,7 @@ Add software of cellular automata, artificial life
 
 Cellular automata:
 https://github.com/natj/CellularAutomata.jl
+https://github.com/thearn/game-of-life
 
 Fractals:
 https://github.com/Tenchi2xh/Almonds
