@@ -59,8 +59,20 @@ paper: Complex Systems: A Survey - M. E. J. Newman
 * [Lecture: Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur)](https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
 
 Add software of cellular automata, artificial life 
-
+## Software
 * [Software: Chaos - Book from James Gleich](https://github.com/rudyrucker/chaos)
+
+
+Cellular automata:
+https://github.com/natj/CellularAutomata.jl
+
+Fractals:
+https://github.com/Tenchi2xh/Almonds
+
+Modeling:
+
+Artificial life:
+
 
 ## Other Resources 
 
