@@ -60,6 +60,8 @@ paper: Complex Systems: A Survey - M. E. J. Newman
 
 Add software of cellular automata, artificial life 
 
+https://github.com/rudyrucker/chaos
+
 ## Other Resources 
 
 #### Persons to follow:
