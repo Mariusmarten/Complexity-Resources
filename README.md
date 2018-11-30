@@ -60,6 +60,8 @@ Complexity Science Hub Vienna (https://www.csh.ac.at)
 
 paper: Complex Systems: A Survey - M. E. J. Newman
 
+Introduction to the Theory of Complex Systems (https://global.oup.com/academic/product/introduction-to-the-theory-of-complex-systems-9780198821939?cc=au&lang=en&)
+
 * [Lecture: Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur)](https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
 
 Add software of cellular automata, artificial life 
