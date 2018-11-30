@@ -54,6 +54,10 @@ Resources systems neuroscience / complex systems
 - Complexity lab 
 - Code examples 
 
+https://www.santafe.edu
+
+Complexity Science Hub Vienna 
+
 paper: Complex Systems: A Survey - M. E. J. Newman
 
 * [Lecture: Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur)](https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
@@ -84,6 +88,8 @@ Artificial life:
 Book: homo Sapiens/ homo deus 
 
 -opendatascience
+
+https://cssociety.org/home
 
 * [Website: Brilliant - free problems and examples in math, science, and engineering](https://brilliant.org)
 * [Website: Khan Academy - varioius online lectures and courses](https://www.khanacademy.org/)
