@@ -56,7 +56,7 @@ Resources systems neuroscience / complex systems
 
 https://www.santafe.edu
 
-Complexity Science Hub Vienna 
+Complexity Science Hub Vienna (https://www.csh.ac.at)
 
 paper: Complex Systems: A Survey - M. E. J. Newman
 
