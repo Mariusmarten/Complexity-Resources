@@ -10,20 +10,13 @@ From Basic to Advanced
 ## Basics in Complexity:
 
 * [Book: James Gleick - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/ref=sr_1_1?ie=UTF8&qid=1540898509&sr=8-1&keywords=chaos+james+gleick): history of chaos in science; butterfly effect, scientific revolution, modeling wildlife popultion, nonlinear science, bifurcations, fractal geometry, phase space, Feigenbaum, Mandelbrot set, information theory, micro to macroscale, dynamical heart
-
 * [Book: John Gribbin - Deep Simplicity: Bringing Order to Chaos and Complexity](https://www.amazon.com/Deep-Simplicity-Bringing-Order-Complexity/dp/140006256X):
-
-Complexity talks on reddit 
-
+* [Website: Reddit - Complex Systems](https://www.reddit.com/r/complexsystems/)
 * [Website: Reddit - Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
-
 * [Website: Information is beautiful](https://informationisbeautiful.net)
-
 * [Video: Kurzgesagt(In a nutshell) - Emergence_How Stupid Things Become Smart Together](https://www.youtube.com/watch?v=16W7c0mb-rE&t=7s)
-
 * [Video: Stanford/Robert Sapolsky - Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
 * [Video: Stanford/Robert Sapolsky - Emergence and Complexity](https://www.youtube.com/watch?v=o_ZuWbX-CyE&t=537s)
-
 
 ## Advanced Complex Systems
 * [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
