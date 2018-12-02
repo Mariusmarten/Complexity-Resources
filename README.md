@@ -28,12 +28,13 @@ https://www.complexityexplorer.org/courses
 
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 ## Complexity Research
-
 * [Course: Coursera - Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity): flows in networks, linear programming, NP-complete problems, streaming algorithms
 
 * [Courses: Coursera - Specialisation Systems Biology](https://www.coursera.org/specializations/systems-biology): Approx. 7 months to complete - Introduction to systems biology, experimental methods, network analysis, dynamical modeling, integrated analysis, biotechnology capstone
 
 * [Courses: Universities in Netherlands - Complexity Science Courses](http://ias.uva.nl/binaries/content/assets/subsites/uva-institute-for-advanced-studies/course-list-ias-final.pdf?2977919327694.): simplifing complexity, self-organization, complex network, complex systems, complexity and networks, complex system simulation, agent-based modeling, systems biology, complexity and behavior
+
+Information: https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
 
 Complexity: 
 -courses! 
