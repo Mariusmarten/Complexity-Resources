@@ -26,7 +26,7 @@ https://www.complexityexplorer.org/courses
 
 * [Book: Cristoforo Sergio Bertuglia - Nonlinearity, Chaos, and Complexity: The Dynamics of Natural and Social Systems](https://www.amazon.com/Nonlinearity-Chaos-Complexity-Dynamics-Natural/dp/0198567901): Modelling, Mechanics, Linearity as first approximation, pendulum as natural nonlinear process, phase space, mathematical economics, economic cycle, chaotic pendulum, social processes: two interacting populations + nonlinearity (Volterra-Lotka model), chaos, strange and chaotic attractors, stability in dynamic systems, measuring chaos in real systems, logistic growth, logisitc map, complexity, inadequacy of reductionism, determinism, self-organization, complexity and evolution
 
-
+https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 ## Complexity Research
 
 * [Course: Coursera - Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity): flows in networks, linear programming, NP-complete problems, streaming algorithms
