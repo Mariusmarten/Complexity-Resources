@@ -68,16 +68,16 @@ Related research fields/buzzwords: modeling artificial life, choas theory, genet
 https://github.com/AllenDowney/ThinkComplexity2
 
 
-Cellular automata:
+* Cellular automata:
 https://github.com/natj/CellularAutomata.jl
 https://github.com/thearn/game-of-life
 
-Fractals:
+* Fractals:
 https://github.com/Tenchi2xh/Almonds
 
-Modeling:
+* Modeling:
 
-Artificial life:
+* Artificial life:
 
 
 ## Other Resources 
