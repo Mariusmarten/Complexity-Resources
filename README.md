@@ -65,7 +65,7 @@ Related research fields/buzzwords: modeling artificial life, choas theory, genet
 
 ## Software
 * [Software: Chaos - Book from James Gleick](https://github.com/rudyrucker/chaos)
-https://github.com/AllenDowney/ThinkComplexity2
+* [Software: Think Complexity](https://github.com/AllenDowney/ThinkComplexity2)
 
 
 Cellular automata:
