@@ -87,9 +87,6 @@ Artificial life:
 
 #### Persons to follow:
 
-
-Book: homo Sapiens/ homo deus 
-
 -opendatascience
 
 https://cssociety.org/home
@@ -99,6 +96,8 @@ https://cssociety.org/home
 * [Website: Map of Science](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0004803.g005)
 * [Videos: Kurzgesagt_In a Nutshell - Make science look beautiful](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 * [Videps: Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A): map of science, map of physics, map of computer science, map of chemistry, map of biology
+* [Book: Yuval Harrari - Sapiens](https://www.amazon.de/Sapiens-Humankind-Yuval-Noah-Harari/dp/1846558239)
+* [Book: Yuval Harrari - Homo Deus](https://www.amazon.de/Homo-Deus-Brief-History-Tomorrow/dp/1784703931/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=V3KV2XCNBYTSC8JFJ5N1)
 * [Podcast: Human Current - Complexity science & systems thinking in the workplace and beyond](http://www.human-current.com/#intro)
 * [Podcast: Datasceptic - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.](https://dataskeptic.com)
 
