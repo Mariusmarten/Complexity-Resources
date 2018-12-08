@@ -62,7 +62,7 @@ Add software of cellular automata, artificial life
 
 Related research fields/buzzwords: modeling artificial life, choas theory, genetic algorithms, complexity economics, econophysics, complex networks, systems biology, self-organization, emergence, complex adaptive systems, cybernetics, cognitive modeling, fractal geometry, multi-agent systems, nonlinearity
 
-
+https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-microbes-20171113/
 ## Software
 * [Software: Chaos - Book from James Gleick](https://github.com/rudyrucker/chaos)
 * [Software: Think Complexity](https://github.com/AllenDowney/ThinkComplexity2)
