@@ -61,6 +61,8 @@ Introduction to the Theory of Complex Systems (https://global.oup.com/academic/p
 
 Add software of cellular automata, artificial life 
 
+Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
+
 Related research fields/buzzwords: modeling artificial life, choas theory, genetic algorithms, complexity economics, econophysics, complex networks, systems biology, self-organization, emergence, complex adaptive systems, cybernetics, cognitive modeling, fractal geometry, multi-agent systems, nonlinearity
 
 https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-microbes-20171113/
