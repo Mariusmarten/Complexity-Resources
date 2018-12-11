@@ -30,66 +30,59 @@ From Basic to Advanced
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 
 ## Complexity Research
+Related research fields/buzzwords: modeling artificial life, choas theory, genetic algorithms, complexity economics, econophysics, complex networks, systems biology, self-organization, emergence, complex adaptive systems, cybernetics, cognitive modeling, fractal geometry, multi-agent systems, nonlinearity
 * [Course: Coursera - Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity): flows in networks, linear programming, NP-complete problems, streaming algorithms
 * [Courses: Coursera - Specialisation Systems Biology](https://www.coursera.org/specializations/systems-biology): Approx. 7 months to complete - Introduction to systems biology, experimental methods, network analysis, dynamical modeling, integrated analysis, biotechnology capstone
 * [Courses: Universities in Netherlands - Complexity Science Courses](http://ias.uva.nl/binaries/content/assets/subsites/uva-institute-for-advanced-studies/course-list-ias-final.pdf?2977919327694.): simplifing complexity, self-organization, complex network, complex systems, complexity and networks, complex system simulation, agent-based modeling, systems biology, complexity and behavior
 * [Videos: 2018 Santa Fe Institute Complexity Labs](https://www.complexityexplorer.org/courses): wide range of courses and tutorials. Introduction to Complexity, Nonlinear Dynamics: Mathematical and Computational Approaches, Introduction to Dynamical Systems and Chaos, Fractals and Scaling, Algorithmic Information Dynamics.
 
-Information: https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
-
-Complexity: 
--courses! 
--graph theory (math)
--software 
-
-Resources systems neuroscience / complex systems 
-- poincare, Mandelbrot etc. Paper 
 - MIT books
-- Courses (computational) 
-- Complexity lab 
-- Code examples 
-
-https://www.santafe.edu
-
-Complexity Science Hub Vienna (https://www.csh.ac.at)
-
-paper: Complex Systems: A Survey - M. E. J. Newman
 
 Introduction to the Theory of Complex Systems (https://global.oup.com/academic/product/introduction-to-the-theory-of-complex-systems-9780198821939?cc=au&lang=en&)
 
 * [Lecture: Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur)](https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
 
-Add software of cellular automata, artificial life 
-
-Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
-
-Related research fields/buzzwords: modeling artificial life, choas theory, genetic algorithms, complexity economics, econophysics, complex networks, systems biology, self-organization, emergence, complex adaptive systems, cybernetics, cognitive modeling, fractal geometry, multi-agent systems, nonlinearity
-
 https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-microbes-20171113/
 
+### Information theory: 
+https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
+
+### Math:
+-graph theory (math)
+
 ## Complexity Paper
+- poincare, Mandelbrot etc. Paper 
+paper: Complex Systems: A Survey - M. E. J. Newman
+
+Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
 
 
 ## Software
 * [Software: Chaos - Book from James Gleick](https://github.com/rudyrucker/chaos)
 * [Software: Think Complexity](https://github.com/AllenDowney/ThinkComplexity2)
 
-
-Cellular automata:
+### Cellular automata:
 * https://github.com/natj/CellularAutomata.jl
 * https://github.com/thearn/game-of-life
 
-Fractals:
+### Fractals:
 * https://github.com/Tenchi2xh/Almonds
 
-Modeling:
+### Modeling:
 
-Artificial life:
+### Artificial life:
 
+### Computational modeling
+-neuroscience
+-econometrics
 
 ## Other Resources 
 
 #### Persons to follow:
+
+#### Institutes to follow:
+https://www.santafe.edu
+Complexity Science Hub Vienna (https://www.csh.ac.at)
 
 
 #### Blogs and Websites to follow:
