@@ -22,18 +22,16 @@ From Basic to Advanced
 ## Advanced Complex Systems
 * [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
 * [Videos: Complexity Labs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
-
-https://www.complexityexplorer.org/courses
-
 * [Book: Cristoforo Sergio Bertuglia - Nonlinearity, Chaos, and Complexity: The Dynamics of Natural and Social Systems](https://www.amazon.com/Nonlinearity-Chaos-Complexity-Dynamics-Natural/dp/0198567901): Modelling, Mechanics, Linearity as first approximation, pendulum as natural nonlinear process, phase space, mathematical economics, economic cycle, chaotic pendulum, social processes: two interacting populations + nonlinearity (Volterra-Lotka model), chaos, strange and chaotic attractors, stability in dynamic systems, measuring chaos in real systems, logistic growth, logisitc map, complexity, inadequacy of reductionism, determinism, self-organization, complexity and evolution
 
+
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
+
 ## Complexity Research
 * [Course: Coursera - Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity): flows in networks, linear programming, NP-complete problems, streaming algorithms
-
 * [Courses: Coursera - Specialisation Systems Biology](https://www.coursera.org/specializations/systems-biology): Approx. 7 months to complete - Introduction to systems biology, experimental methods, network analysis, dynamical modeling, integrated analysis, biotechnology capstone
-
 * [Courses: Universities in Netherlands - Complexity Science Courses](http://ias.uva.nl/binaries/content/assets/subsites/uva-institute-for-advanced-studies/course-list-ias-final.pdf?2977919327694.): simplifing complexity, self-organization, complex network, complex systems, complexity and networks, complex system simulation, agent-based modeling, systems biology, complexity and behavior
+* [Videos: 2018 Santa Fe Institute Complexity Labs](https://www.complexityexplorer.org/courses): wide range of courses and tutorials. Introduction to Complexity, Nonlinear Dynamics: Mathematical and Computational Approaches, Introduction to Dynamical Systems and Chaos, Fractals and Scaling, Algorithmic Information Dynamics.
 
 Information: https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
 
@@ -66,6 +64,10 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 Related research fields/buzzwords: modeling artificial life, choas theory, genetic algorithms, complexity economics, econophysics, complex networks, systems biology, self-organization, emergence, complex adaptive systems, cybernetics, cognitive modeling, fractal geometry, multi-agent systems, nonlinearity
 
 https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-microbes-20171113/
+
+## Complexity Paper
+
+
 ## Software
 * [Software: Chaos - Book from James Gleick](https://github.com/rudyrucker/chaos)
 * [Software: Think Complexity](https://github.com/AllenDowney/ThinkComplexity2)
@@ -86,6 +88,9 @@ Artificial life:
 ## Other Resources 
 
 #### Persons to follow:
+
+
+#### Blogs and Websites to follow:
 
 -opendatascience
 
