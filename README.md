@@ -82,8 +82,9 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 
 #### Institutes to follow:
 https://www.santafe.edu
-Complexity Science Hub Vienna (https://www.csh.ac.at)
-* [Stanford Complexity Group](complexity.stanford.edu/):
+* [Complexity Science Hub Vienna](https://www.csh.ac.at)
+* [Stanford Complexity Group](complexity.stanford.edu/)
+* [Max Planck Institute for Dynamics and Self-Organization](https://www.ds.mpg.de/en)
 
 #### Blogs and Websites to follow:
 
