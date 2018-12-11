@@ -11,6 +11,8 @@ From Basic to Advanced
 
 * [Book: James Gleick - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/ref=sr_1_1?ie=UTF8&qid=1540898509&sr=8-1&keywords=chaos+james+gleick): history of chaos in science; butterfly effect, scientific revolution, modeling wildlife popultion, nonlinear science, bifurcations, fractal geometry, phase space, Feigenbaum, Mandelbrot set, information theory, micro to macroscale, dynamical heart
 * [Book: John Gribbin - Deep Simplicity: Bringing Order to Chaos and Complexity](https://www.amazon.com/Deep-Simplicity-Bringing-Order-Complexity/dp/140006256X):
+* [Book: Steven Johnson - Emergence]():
+* [Book: Steven Johnson - Emergence]():
 * [Website: Reddit - Complex Systems](https://www.reddit.com/r/complexsystems/)
 * [Website: Reddit - Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
 * [Website: Information is beautiful](https://informationisbeautiful.net)
@@ -23,7 +25,7 @@ From Basic to Advanced
 * [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
 * [Videos: Complexity Labs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
 * [Book: Cristoforo Sergio Bertuglia - Nonlinearity, Chaos, and Complexity: The Dynamics of Natural and Social Systems](https://www.amazon.com/Nonlinearity-Chaos-Complexity-Dynamics-Natural/dp/0198567901): Modelling, Mechanics, Linearity as first approximation, pendulum as natural nonlinear process, phase space, mathematical economics, economic cycle, chaotic pendulum, social processes: two interacting populations + nonlinearity (Volterra-Lotka model), chaos, strange and chaotic attractors, stability in dynamic systems, measuring chaos in real systems, logistic growth, logisitc map, complexity, inadequacy of reductionism, determinism, self-organization, complexity and evolution
-
+* [Book: Melanie Mitchelln - Complexity: A guided tour](): background and history, information, computation, evolution, genetics, life and evolution in computers, cellular automata, information processing in living systems, network thinking, mystery of scaling, evolution, complexified
 
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 
