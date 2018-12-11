@@ -83,7 +83,7 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 #### Institutes to follow:
 https://www.santafe.edu
 Complexity Science Hub Vienna (https://www.csh.ac.at)
-
+* [Stanford Complexity Group](complexity.stanford.edu/):
 
 #### Blogs and Websites to follow:
 
@@ -98,6 +98,6 @@ https://cssociety.org/home
 * [Videps: Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A): map of science, map of physics, map of computer science, map of chemistry, map of biology
 * [Book: Yuval Harari - Sapiens](https://www.amazon.de/Sapiens-Humankind-Yuval-Noah-Harari/dp/1846558239)
 * [Book: Yuval Harari - Homo Deus](https://www.amazon.de/Homo-Deus-Brief-History-Tomorrow/dp/1784703931/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=V3KV2XCNBYTSC8JFJ5N1)
-* [Podcast: Human Current - Complexity science & systems thinking in the workplace and beyond](http://www.human-current.com/#intro)
+* [Podcast: Human Current - exity science & systems thinking in the workplace and beyond](http://www.human-current.com/#intro)
 * [Podcast: Datasceptic - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.](https://dataskeptic.com)
 
