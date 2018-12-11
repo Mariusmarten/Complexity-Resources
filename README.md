@@ -16,7 +16,7 @@ From Basic to Advanced
 * [Website: Reddit - Complex Systems](https://www.reddit.com/r/complexsystems/)
 * [Website: Reddit - Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
 * [Website: Information is beautiful](https://informationisbeautiful.net)
-* [Video: Kurzgesagt(In a nutshell) - Emergence_How Stupid Things Become Smart Together](https://www.youtube.com/watch?v=16W7c0mb-rE&t=7s)
+* [Video: Kurzgesagt(In a nutshell) - Emergence: How Stupid Things Become Smart Together](https://www.youtube.com/watch?v=16W7c0mb-rE&t=7s)
 * [Video: Stanford/Robert Sapolsky - Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
 * [Video: Stanford/Robert Sapolsky - Emergence and Complexity](https://www.youtube.com/watch?v=o_ZuWbX-CyE&t=537s)
 * [Movie: The most unknown](https://www.themostunknown.com)
@@ -85,12 +85,11 @@ https://www.santafe.edu
 * [Complexity Science Hub Vienna](https://www.csh.ac.at)
 * [Stanford Complexity Group](complexity.stanford.edu/)
 * [Max Planck Institute for Dynamics and Self-Organization](https://www.ds.mpg.de/en)
+* [Complex Systems Society](https://cssociety.org/home)
 
 #### Blogs and Websites to follow:
 
 -opendatascience
-
-https://cssociety.org/home
 
 * [Website: Brilliant - free problems and examples in math, science, and engineering](https://brilliant.org)
 * [Website: Khan Academy - varioius online lectures and courses](https://www.khanacademy.org/)
