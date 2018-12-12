@@ -51,7 +51,9 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 -graph theory (math)
 
 ## Complexity Paper
-- poincare, Mandelbrot etc. Paper 
+- Poincare
+- Mandelbrot 
+- 
 paper: Complex Systems: A Survey - M. E. J. Newman
 
 Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
