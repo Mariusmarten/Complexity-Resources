@@ -2,11 +2,11 @@
 From Basic to Advanced
 
 
-* [1. Basics in Complexity](#basics_in_comlexity)
-* [2. Advanced Complex Systems](#advanced_complex_systems)
-* [3. Complexity Research](#complexity_research)
-* [Complexity Paper](#complexity_paper)
-* [Other Resources](#other_resources)
+* [1. Basics in Complexity](#basics-in-comlexity)
+* [2. Advanced Complex Systems](#advanced-complex-systems)
+* [3. Complexity Research](#complexity-research)
+* [Complexity Paper](#complexity-paper)
+* [Other Resources](#other-resources)
 
 ## Basics in Complexity:
 
