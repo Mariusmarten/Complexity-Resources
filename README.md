@@ -3,16 +3,17 @@ From Basic to Advanced
 
 
 * [1. Basics in Complexity](#basics_in_comlexity)
-* [2. Advanced Complex Systems](#3-prerequisites-programming)
-* [3. Complexity Research](#3-prerequisites-programming)
-* [Other Resources](#3-prerequisites-programming)
+* [2. Advanced Complex Systems](#advanced_complex_systems)
+* [3. Complexity Research](#complexity_research)
+* [Complexity Paper](#complexity_paper)
+* [Other Resources](#other_resources)
 
 ## Basics in Complexity:
 
 * [Book: James Gleick - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/ref=sr_1_1?ie=UTF8&qid=1540898509&sr=8-1&keywords=chaos+james+gleick): history of chaos in science; butterfly effect, scientific revolution, modeling wildlife popultion, nonlinear science, bifurcations, fractal geometry, phase space, Feigenbaum, Mandelbrot set, information theory, micro to macroscale, dynamical heart
 * [Book: John Gribbin - Deep Simplicity: Bringing Order to Chaos and Complexity](https://www.amazon.com/Deep-Simplicity-Bringing-Order-Complexity/dp/140006256X):
 * [Book: Steven Johnson - Emergence](https://www.amazon.de/Emergence-Connected-Brains-Cities-Software/dp/0684868768/ref=sr_1_2?ie=UTF8&qid=1544757158&sr=8-2&keywords=Steven+Johnson+-+Emergence):
-* [Book: Steven Strogatz - SYNC: The Emerging Scinence of Spontaneous Order](https://www.amazon.de/Sync-Emerging-Science-Spontaneous-Order/dp/0786868449/ref=sr_1_fkmr0_1?ie=UTF8&qid=1544757185&sr=8-1-fkmr0&keywords=SYNC%3A+The+Emerging+Scinence+of+Spontaneous+Order):
+* [Book: Steven Strogatz - SYNC: The Emerging Scinence of Spontaneous Order](https://www.amazon.de/Sync-Emerging-Science-Spontaneous-Order/dp/0786868449/ref=sr_1_fkmr0_1?ie=UTF8&qid=1544757185&sr=8-1-fkmr0&keywords=SYNC%3A+The+Emerging+Scinence+of+3Spontaneous+Order):
 * [Book: Gary Marcus - The Birth of the Mind: How Genes create the Complexity of Human Thought](https://www.amazon.de/Birth-Mind-Creates-Complexities-Thought-ebook/dp/B06XCDZ3GP/ref=sr_1_1?ie=UTF8&qid=1544757223&sr=8-1&keywords=The+Birth+of+the+Mind%3A+How+Genes+create+the+Complexity+of+Human+Thought):
 * [Website: Reddit - Complex Systems](https://www.reddit.com/r/complexsystems/)
 * [Website: Reddit - Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
