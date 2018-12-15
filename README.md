@@ -56,7 +56,11 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 - Poincare
 - Mandelbrot 
 - 
-paper: Complex Systems: A Survey - M. E. J. Newman
+
+* [Paper: SM. E. J. Newman - Complex Systems: A Survey](https://arxiv.org/abs/1112.1440)
+* [Paper: Nature - Complexity Research in Nature Communications](https://www.nature.com/collections/ycjylwzvmz)
+
+
 
 Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
 
