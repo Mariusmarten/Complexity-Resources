@@ -8,6 +8,10 @@ From Basic to Advanced
 * [Complexity Paper](#complexity-paper)
 * [Other Resources](#other-resources)
 
+<p align="center">
+  <img width="540" height="409" src="complexity_map_santa-Fe.jpg">
+</p>
+
 ## Basics in Complexity:
 
 * [Book: James Gleick - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/ref=sr_1_1?ie=UTF8&qid=1540898509&sr=8-1&keywords=chaos+james+gleick): history of chaos in science; butterfly effect, scientific revolution, modeling wildlife popultion, nonlinear science, bifurcations, fractal geometry, phase space, Feigenbaum, Mandelbrot set, information theory, micro to macroscale, dynamical heart
