@@ -89,7 +89,7 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 -econometrics
 
 <p align="center">
-  <img width="640" height="360" src="bacteria1.gifg">
+  <img width="640" height="360" src="bacteria1.gif">
 </p>
 
 
