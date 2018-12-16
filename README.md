@@ -88,6 +88,11 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 -neuroscience
 -econometrics
 
+<p align="center">
+  <img width="640" height="360" src="bacteria1.gifg">
+</p>
+
+
 ## Other Resources 
 
 #### Persons to follow:
