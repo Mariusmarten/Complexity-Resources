@@ -123,6 +123,7 @@ https://www.santafe.edu
 * [Website: Brilliant - free problems and examples in math, science, and engineering](https://brilliant.org)
 * [Website: Khan Academy - varioius online lectures and courses](https://www.khanacademy.org/)
 * [Website: Map of Science](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0004803.g005)
+* [Website: Quanta Magazine](https://www.quantamagazine.org)
 * [Videos: Kurzgesagt_In a Nutshell - Make science look beautiful](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 * [Videps: Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A): map of science, map of physics, map of computer science, map of chemistry, map of biology
 * [Book: Yuval Harari - Sapiens](https://www.amazon.de/Sapiens-Humankind-Yuval-Noah-Harari/dp/1846558239)
