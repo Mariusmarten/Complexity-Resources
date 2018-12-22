@@ -50,7 +50,10 @@ Introduction to the Theory of Complex Systems (https://global.oup.com/academic/p
 
 https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-microbes-20171113/
 
-### Information theory: 
+### Information theory:
+* [Book: Thomas M. Cover - Elements of Information Theory](https://www.amazon.com/Elements-Information-Theory-Telecommunications-Processing/dp/0471241954)
+* [Book: Ming Li  - An Introduction to Kolmogorov Complexity and Its Applications](https://www.amazon.com/Introduction-Kolmogorov-Complexity-Applications-Computer/dp/0387339981)
+
 https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
 
 ### Math:
@@ -59,7 +62,7 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 ## Complexity Paper
 - Poincare
 - Mandelbrot 
-- 
+- Histric paper/ review 
 
 * [Paper: SM. E. J. Newman - Complex Systems: A Survey](https://arxiv.org/abs/1112.1440)
 * [Paper: Nature - Complexity Research in Nature Communications](https://www.nature.com/collections/ycjylwzvmz)
