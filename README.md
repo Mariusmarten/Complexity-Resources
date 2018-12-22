@@ -82,6 +82,7 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 
 ### Fractals:
 * https://github.com/Tenchi2xh/Almonds
+* [Video: 3Blue1Brown - Fractals are typically not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4)
 
 ### Modeling:
 
