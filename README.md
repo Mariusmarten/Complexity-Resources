@@ -89,6 +89,8 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 
 ### Artificial life:
 * [Video: Stated Clearly - What Is the RNA World Hypothesis?](https://www.youtube.com/watch?v=K1xnYFCZ9Yg:idea that chains of RNA may have been the first things to replicate and evolve
+* [Video: Stated Clearly - What Caused Life's Major Evolutionary Transitions?](https://www.youtube.com/watch?v=VUfNEHl44hc):
+(https://www.nature.com/articles/374227a0)
 
 ### Computational modeling
 -neuroscience
