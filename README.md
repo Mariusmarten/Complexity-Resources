@@ -72,6 +72,10 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
 
 
+<p align="center">
+  <img width="540" height="409" src="visual_complexity2.png">
+</p>
+
 ## Software
 * [Software: Chaos - Book from James Gleick](https://github.com/rudyrucker/chaos)
 * [Software: Think Complexity](https://github.com/AllenDowney/ThinkComplexity2)
@@ -105,7 +109,6 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 <p align="center">
   <img width="640" height="360" src="bacteria1.gif">
 </p>
-
 
 ## Other Resources 
 
