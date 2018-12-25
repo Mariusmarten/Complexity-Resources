@@ -75,6 +75,13 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 
 Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
 
+### Applied complexity research
+Economies are self-organizing systems they are dealing with dynamic, changing systems, in which positive feedbacks are involved.
+Thermodynamics
+
+Neuroscience
+
+
 <p align="center">
   <img width="540" height="409" src="visual_complexity2.png">
 </p>
