@@ -37,6 +37,10 @@ From Basic to Advanced. Complex does not equal complicated, a computer for examp
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 
 ### Fractals/ Scale
+- Elliot waves
+* https://github.com/Tenchi2xh/Almonds
+* [Video: 3Blue1Brown - Fractals are typically not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4)
+- fractal dimensions (https://en.wikipedia.org/wiki/Fractal_dimension)
 
 ## Complexity Research
 Related research fields/buzzwords: modeling artificial life, choas theory, genetic algorithms, complexity economics, econophysics, complex networks, systems biology, self-organization, emergence, complex adaptive systems, cybernetics, cognitive modeling, fractal geometry, multi-agent systems, nonlinearity
@@ -64,14 +68,14 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 - collective computation 
 
 ### Math:
--graph theory (math)
--network theory 
+- graph theory (math)
+- network theory 
 
 ## Complexity Paper
 - Poincare
 - Mandelbrot 
 -Chao Tang and Kurt Wiesenfeld; sandpile model
--Stuart Kauff man’s ‘button’ model 
+- Stuart Kauff man’s ‘button’ model 
 - Historic paper/ review 
 
 morphogenesis”—the capacity of all life-forms to develop ever more baroque bodies out of impossibly simple beginnings - Turing
@@ -85,9 +89,9 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 
 * Thermodynamics
 -Neural networks
--Biological poulations (movment of human populations/ Bak-Sneppen model): story of life in the Universe is an example of surface complexity built upon foundations of simple rules.
--Genetic analysis (interactions during evolution/ tree of life)
--Geoscinece/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system / Daisyworld model)
+- Biological poulations (movment of human populations/ Bak-Sneppen model): story of life in the Universe is an example of surface complexity built upon foundations of simple rules.
+- Genetic analysis (interactions during evolution/ tree of life)
+- Geoscinece/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system / Daisyworld model)
 (https://serc.carleton.edu/NAGTWorkshops/complexsystems/activities/daisyworld.html)
 
 
@@ -102,11 +106,6 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 ### Cellular automata:
 * https://github.com/natj/CellularAutomata.jl
 * https://github.com/thearn/game-of-life
-
-### Fractals:
-* https://github.com/Tenchi2xh/Almonds
-* [Video: 3Blue1Brown - Fractals are typically not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4)
-- fractal dimensions (https://en.wikipedia.org/wiki/Fractal_dimension)
 
 ### Modeling:
 
@@ -123,10 +122,10 @@ All sciences have the identification and prediction of the evolution of systems 
 
 
 * neuroscience
--econometrics
--population modeling/ ecosystems
--weather forecast
--protein folding
+- econometrics
+- population modeling/ ecosystems
+- weather forecast
+- protein folding
 - 
 
 
