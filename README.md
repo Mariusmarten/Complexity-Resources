@@ -1,5 +1,7 @@
 # Complexity-Resources
-From Basic to Advanced. Complex does not equal complicated, a computer for example is complicated, whereas the brain is complex. Complexity is a property of the systems as a whole.
+From Basic to Advanced. Complex does not equal complicated, a computer for example is complicated, whereas the brain is complex. Complexity is a property of the systems as a whole. 
+
+The identiﬁcation of systems is common to all sciences
 
 
 * [1. Basics in Complexity](#basics-in-comlexity)
@@ -111,7 +113,9 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 (https://www.nature.com/articles/374227a0)
 
 ### Computational modeling
-Mathematical modelling has become an increasingly relevant instrument, reality often turns out too complicated to be summarized within a limited set of rules.
+Mathematical modelling has become an increasingly relevant instrument, reality often turns out too complicated to be summarized within a limited set of rules. All sciences have the identification and prediction of the evolution of systems over time in common, for this purpose modeling is well suited.
+
+
 -neuroscience
 -econometrics
 -population modeling/ ecosystems
