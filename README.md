@@ -1,5 +1,5 @@
 # Complexity-Resources
-From Basic to Advanced. Complex does not equal complicated, a computer for example is complicated, whereas the brain is complex. Complexity is a property of the systems as a whole. The science of complexity takes a global view of the world, it regards the interrelations between systems and the elements that they are made up of. 
+From Basic to Advanced. Complex does not equal complicated, a computer for example is complicated, whereas the brain is complex. Complexity is a property of the systems as a whole. The science of complexity takes a global view of the world, it regards the interrelations between systems and the elements that they are made up of. This hollistic apporach is deterministic but nonreductionistic.
 
 
 
