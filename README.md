@@ -79,7 +79,8 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 
 ### Applied complexity research
 Economies are self-organizing systems they are dealing with dynamic, changing systems, in which positive feedbacks are involved (stock market). Social systems in general are instable and very often 'situations' are different from each other, which makes the determination of regularities difficult.
--Thermodynamics
+
+* Thermodynamics
 -Neural networks
 -Biological poulations (movment of human populations/ Bak-Sneppen model): story of life in the Universe is an example of surface complexity built upon foundations of simple rules.
 -Genetic analysis (interactions during evolution/ tree of life)
@@ -112,12 +113,13 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 (https://www.nature.com/articles/374227a0)
 
 ### Computational modeling
-Mathematical modelling has become an increasingly relevant instrument, reality often turns out too complicated to be summarized within a limited set of rules. Especially linearization becomes increasingly unacceptable, the further a phenomen is from a condition of stable equilibrium.
+Mathematical modelling has become an increasingly relevant instrument, reality often turns out too complicated to be summarized within a limited set of rules. Especially linearization becomes increasingly unacceptable, the further a phenomen is from a condition of stable equilibrium. Nonlinear models are often better suited, but they are limited due to incomplete knowledge of the initial state leading to approximations that worsen over time
+
 
 All sciences have the identification and prediction of the evolution of systems over time in common, for this purpose modeling is well suited.
 
 
--neuroscience
+* neuroscience
 -econometrics
 -population modeling/ ecosystems
 -weather forecast
