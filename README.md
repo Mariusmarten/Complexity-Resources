@@ -80,7 +80,7 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 Economies are self-organizing systems they are dealing with dynamic, changing systems, in which positive feedbacks are involved (stock market)
 -Thermodynamics
 -Neural networks
--Biological poulations (movment of humans) / Bak-Sneppen model
+-Biological poulations (movment of human populations/ Bak-Sneppen model): story of life in the Universe is an example of surface complexity built upon foundations of simple rules.
 -Genetic analysis (interactions during evolution/ tree of life)
 -Geology/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system / Daisyworld model)
 
