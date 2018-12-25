@@ -148,3 +148,4 @@ https://www.santafe.edu
 * [Podcast: Datasceptic - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.](https://dataskeptic.com)
 
 http://understandingthecomplex.blogspot.com
+http://www.if.pw.edu.pl/~agatka/catalogue/soc.html
