@@ -79,7 +79,7 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
 
 ### Applied complexity research
-Economies are self-organizing systems they are dealing with dynamic, changing systems, in which positive feedbacks are involved (stock market)
+Economies are self-organizing systems they are dealing with dynamic, changing systems, in which positive feedbacks are involved (stock market). Social systems in general are instable and very often 'situations' are different from each other, which makes the determination of regularities difficult.
 -Thermodynamics
 -Neural networks
 -Biological poulations (movment of human populations/ Bak-Sneppen model): story of life in the Universe is an example of surface complexity built upon foundations of simple rules.
