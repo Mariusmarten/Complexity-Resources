@@ -76,10 +76,10 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
 
 ### Applied complexity research
-Economies are self-organizing systems they are dealing with dynamic, changing systems, in which positive feedbacks are involved.
+Economies are self-organizing systems they are dealing with dynamic, changing systems, in which positive feedbacks are involved (stock market)
 -Thermodynamics
 -Neural networks
--Biological poulations
+-Biological poulations (movment of humans)
 
 
 <p align="center">
