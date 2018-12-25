@@ -82,7 +82,7 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 -Neural networks
 -Biological poulations (movment of humans) / Bak-Sneppen model
 -Genetic analysis
--Geology/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system)
+-Geology/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system / Daisyworld model)
 
 
 <p align="center">
