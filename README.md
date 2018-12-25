@@ -81,6 +81,7 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 -Thermodynamics
 -Neural networks
 -Biological poulations (movment of humans)
+-Genetic analysis
 
 
 <p align="center">
