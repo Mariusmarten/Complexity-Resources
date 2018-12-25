@@ -77,9 +77,9 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 
 ### Applied complexity research
 Economies are self-organizing systems they are dealing with dynamic, changing systems, in which positive feedbacks are involved.
-Thermodynamics
-
-Neuroscience
+-Thermodynamics
+-Neural networks
+-Biological poulations
 
 
 <p align="center">
