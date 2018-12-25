@@ -72,6 +72,7 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 -Stuart Kauff man’s ‘button’ model 
 - Historic paper/ review 
 
+morphogenesis”—the capacity of all life-forms to develop ever more baroque bodies out of impossibly simple beginnings - Turing
 * [Paper: SM. E. J. Newman - Complex Systems: A Survey](https://arxiv.org/abs/1112.1440)
 * [Paper: Nature - Complexity Research in Nature Communications](https://www.nature.com/collections/ycjylwzvmz)
 
