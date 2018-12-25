@@ -69,6 +69,8 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 - collective computation 
 
 ### Math:
+Phase space, orbit, basin of attraction and attractor are all mathematical concepts and as such abstract models constructed from observed processes.
+
 - graph theory (math)
 - network theory 
 
