@@ -147,3 +147,4 @@ https://www.santafe.edu
 * [Podcast: Human Current - exity science & systems thinking in the workplace and beyond](http://www.human-current.com/#intro)
 * [Podcast: Datasceptic - Data science, statistics, machine learning, artificial intelligence, and scientific skepticism.](https://dataskeptic.com)
 
+http://understandingthecomplex.blogspot.com
