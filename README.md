@@ -68,6 +68,7 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 - Poincare
 - Mandelbrot 
 -Chao Tang and Kurt Wiesenfeld; sandpile model
+-Stuart Kauff man’s ‘button’ model 
 - Histric paper/ review 
 
 * [Paper: SM. E. J. Newman - Complex Systems: A Survey](https://arxiv.org/abs/1112.1440)
