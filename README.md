@@ -56,8 +56,13 @@ https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-
 
 https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
 
+### Computation
+- Neural computation
+- collective computation 
+
 ### Math:
 -graph theory (math)
+-network theory 
 
 ## Complexity Paper
 - Poincare
@@ -67,10 +72,7 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 * [Paper: SM. E. J. Newman - Complex Systems: A Survey](https://arxiv.org/abs/1112.1440)
 * [Paper: Nature - Complexity Research in Nature Communications](https://www.nature.com/collections/ycjylwzvmz)
 
-
-
 Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuroscience
-
 
 <p align="center">
   <img width="540" height="409" src="visual_complexity2.png">
@@ -103,7 +105,6 @@ Complexity in neuroscience: https://www.nature.com/collections/ycjylwzvmz/neuros
 -weather forecast
 -protein folding
 - 
--
 
 
 <p align="center">
