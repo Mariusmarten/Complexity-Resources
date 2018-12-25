@@ -1,5 +1,5 @@
 # Complexity-Resources
-From Basic to Advanced
+From Basic to Advanced. Complex does not equal complicated, a computer for example is complicated, whereas the brain is complex. Complexity is a property of the systems as a whole.
 
 
 * [1. Basics in Complexity](#basics-in-comlexity)
