@@ -69,7 +69,7 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 - Mandelbrot 
 -Chao Tang and Kurt Wiesenfeld; sandpile model
 -Stuart Kauff man’s ‘button’ model 
-- Histric paper/ review 
+- Historic paper/ review 
 
 * [Paper: SM. E. J. Newman - Complex Systems: A Survey](https://arxiv.org/abs/1112.1440)
 * [Paper: Nature - Complexity Research in Nature Communications](https://www.nature.com/collections/ycjylwzvmz)
@@ -81,7 +81,7 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 -Thermodynamics
 -Neural networks
 -Biological poulations (movment of humans) / Bak-Sneppen model
--Genetic analysis
+-Genetic analysis (interactions during evolution/ tree of life)
 -Geology/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system / Daisyworld model)
 
 
