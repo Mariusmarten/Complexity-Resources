@@ -112,7 +112,9 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 (https://www.nature.com/articles/374227a0)
 
 ### Computational modeling
-Mathematical modelling has become an increasingly relevant instrument, reality often turns out too complicated to be summarized within a limited set of rules. All sciences have the identification and prediction of the evolution of systems over time in common, for this purpose modeling is well suited.
+Mathematical modelling has become an increasingly relevant instrument, reality often turns out too complicated to be summarized within a limited set of rules. Especially linearization becomes increasingly unacceptable, the further a phenomen is from a condition of stable equilibrium.
+
+All sciences have the identification and prediction of the evolution of systems over time in common, for this purpose modeling is well suited.
 
 
 -neuroscience
