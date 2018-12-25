@@ -36,6 +36,8 @@ From Basic to Advanced. Complex does not equal complicated, a computer for examp
 
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 
+### Fractals/ Scale
+
 ## Complexity Research
 Related research fields/buzzwords: modeling artificial life, choas theory, genetic algorithms, complexity economics, econophysics, complex networks, systems biology, self-organization, emergence, complex adaptive systems, cybernetics, cognitive modeling, fractal geometry, multi-agent systems, nonlinearity
 * [Course: Coursera - Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity): flows in networks, linear programming, NP-complete problems, streaming algorithms
