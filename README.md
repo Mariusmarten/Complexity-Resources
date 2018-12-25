@@ -136,6 +136,11 @@ https://www.santafe.edu
 * [Netherlands Platform Complex Systems (NPCS)](https://www.npcs.nl)
 * [Fractals Foundation](https://fractalfoundation.org/resources/what-is-chaos-theory/)
 
+Monash University, Victoria
+
+New England Complex System Institute (NECSI
+
+
 #### Blogs and Websites to follow:
 
 -opendatascience
