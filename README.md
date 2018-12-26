@@ -30,6 +30,7 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 * [Movie: The most unknown](https://www.themostunknown.com)
 
 ## Advanced Complex Systems
+Ignoring less important state variables while building a model makes them in a certain sense 'external' to the system.
 
 * [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
 * [Videos: Complexity Labs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
