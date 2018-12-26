@@ -133,7 +133,7 @@ All sciences have the identification and prediction of the evolution of systems 
 
 
 * neuroscience
-- econometrics
+- econometrics/ econophysics
 - population modeling/ ecosystems
 - weather forecast
 - protein folding
