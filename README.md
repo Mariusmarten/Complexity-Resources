@@ -67,7 +67,9 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 
 ### Computation
 - Neural computation
-- collective computation 
+- collective computation (swarm intelligence)
+- nature-inspired computation (e.g. immune system)
+- evolutionary computing (https://www.mitpressjournals.org/loi/evco)
 
 ### Math:
 Phase space, orbit, basin of attraction and attractor are all mathematical concepts and as such abstract models constructed from observed processes.
