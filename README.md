@@ -93,7 +93,8 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 * Thermodynamics
 -Neural networks
 - Biological poulations (movment of human populations/ Bak-Sneppen model): story of life in the Universe is an example of surface complexity built upon foundations of simple rules.
-- Genetic analysis (interactions during evolution/ tree of life)
+- Genetic analysis (interactions during evolution/ evolution as complexification of organisms/ tree of life)
+-pubMed for complex gene analysis 
 - Geoscinece/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system / Daisyworld model)
 (https://serc.carleton.edu/NAGTWorkshops/complexsystems/activities/daisyworld.html)
 
