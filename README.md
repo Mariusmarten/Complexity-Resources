@@ -72,10 +72,12 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 - evolutionary computing (https://www.mitpressjournals.org/loi/evco)
 
 ### Math:
-Phase space, orbit, basin of attraction and attractor are all mathematical concepts and as such abstract models constructed from observed processes.
+Phase space, orbit, basin of attraction and attractor are all mathematical concepts and as such abstract models constructed from observed processes. 
 
 - graph theory (math)
 - network theory 
+
+Lyapunov exponents: numbers that provide a measurement of the stability of a dynamical system and that, in a certain sense, quantify its level of chaos.
 
 ## Complexity Paper
 - Poincare
