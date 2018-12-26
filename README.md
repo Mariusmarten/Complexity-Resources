@@ -77,7 +77,7 @@ Phase space, orbit, basin of attraction and attractor are all mathematical conce
 - graph theory (math)
 - network theory 
 
-The Lyapunov exponents provides a measurment of the stability of a dynamical system, they quantify the level of chaos by indicating the speed of growth (instability) or reduction (stability).
+The Lyapunov exponents provides a measurment of the stability of a dynamical system, they quantify the level of chaos by indicating the speed of growth (instability) or reduction (stability). The sum of these exponents known as the Kolmogorov–Sinai entropy it is an indicator of the extent to which the system is unpredictable (the higher, the less predictable).
 
 ## Complexity Paper
 - Poincare
