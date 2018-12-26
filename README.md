@@ -14,7 +14,7 @@ From Basic to Advanced. Complex does not equal complicated, a computer for examp
 </p>
 
 ## Basics in Complexity:
-Butterﬂy effect: even initial situations that are very close to one another may present a difference that becomes sizeable over time, this property is called sensitivity to initial conditions. Improving the precision of measurement can to some extend increase the so-called predictability horizon, but introduced by using approximations increasingly ampliﬁes itself. Unstable dynamical systems are characterized by the unpredictability this effect causes.
+Butterﬂy effect: even initial situations that are very close to one another may present a difference that becomes sizeable over time, this property is called sensitivity to initial conditions. Improving the precision of measurement can to some extend increase the so-called predictability horizon, but errors introduced by using approximations increasingly ampliy themself. Unstable dynamical systems are characterized by the unpredictability this effect causes. This is called deterministic chaos, it is the substantial and intrinsic unpredictability of the future evolution of both a real system and an abstract model. 
 
 * [Book: James Gleick - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453/ref=sr_1_1?ie=UTF8&qid=1540898509&sr=8-1&keywords=chaos+james+gleick): history of chaos in science; butterfly effect, scientific revolution, modeling wildlife popultion, nonlinear science, bifurcations, fractal geometry, phase space, Feigenbaum, Mandelbrot set, information theory, micro to macroscale, dynamical heart
 * [Book: John Gribbin - Deep Simplicity: Bringing Order to Chaos and Complexity](https://www.amazon.com/Deep-Simplicity-Bringing-Order-Complexity/dp/140006256X):
@@ -30,6 +30,7 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 * [Movie: The most unknown](https://www.themostunknown.com)
 
 ## Advanced Complex Systems
+
 * [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
 * [Videos: Complexity Labs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
 * [Book: Cristoforo Sergio Bertuglia - Nonlinearity, Chaos, and Complexity: The Dynamics of Natural and Social Systems](https://www.amazon.com/Nonlinearity-Chaos-Complexity-Dynamics-Natural/dp/0198567901): Modelling, Mechanics, Linearity as first approximation, pendulum as natural nonlinear process, phase space, mathematical economics, economic cycle, chaotic pendulum, social processes: two interacting populations + nonlinearity (Volterra-Lotka model), chaos, strange and chaotic attractors, stability in dynamic systems, measuring chaos in real systems, logistic growth, logisitc map, complexity, inadequacy of reductionism, determinism, self-organization, complexity and evolution
