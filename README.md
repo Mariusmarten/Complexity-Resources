@@ -77,7 +77,7 @@ Phase space, orbit, basin of attraction and attractor are all mathematical conce
 - graph theory (math)
 - network theory 
 
-Lyapunov exponents: numbers that provide a measurement of the stability of a dynamical system and that, in a certain sense, quantify its level of chaos.
+The Lyapunov exponents provides a measurment of the stability of a dynamical system, they quantify the level of chaos (value indicates the speed of growth (instability) or reduction (stability)). 
 
 ## Complexity Paper
 - Poincare
