@@ -126,7 +126,8 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 ### Computational modeling
 'What I cannot create, I do not understand.' - Richard Feynman
 
-Mathematical modelling has become an increasingly relevant instrument, reality often turns out too complicated to be summarized within a limited set of rules. Especially linearization becomes increasingly unacceptable, the further a phenomen is from a condition of stable equilibrium. Nonlinear models are often better suited, but they are limited due to incomplete knowledge of the initial state leading to approximations that worsen over time
+Mathematical modelling has become an increasingly relevant instrument, reality often turns out too complicated to be summarized within a limited set of rules. Especially the assumptions underlying linearization are unacceptable, the further a phenomen is from a condition of stable equilibrium. Nonlinear models are often better suited, but they are limited due to incomplete knowledge of the initial state leading to approximations that worsen over time.
+To build such models it is important to identify the number of state variable need to constitute the phase space to contain the possible attractor (an the dimension of such).
 
 
 All sciences have the identification and prediction of the evolution of systems over time in common, for this purpose modeling is well suited.
