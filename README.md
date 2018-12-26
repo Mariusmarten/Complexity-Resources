@@ -42,6 +42,7 @@ https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_t
 * https://github.com/Tenchi2xh/Almonds
 * [Video: 3Blue1Brown - Fractals are typically not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4)
 - fractal dimensions (https://en.wikipedia.org/wiki/Fractal_dimension)
+- Feigenbaum tree of bifurcations
 
 ## Complexity Research
 Related research fields/buzzwords: modeling artificial life, choas theory, genetic algorithms, complexity economics, econophysics, complex networks, systems biology, self-organization, emergence, complex adaptive systems, cybernetics, cognitive modeling, fractal geometry, multi-agent systems, nonlinearity
