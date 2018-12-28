@@ -63,6 +63,11 @@ https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-
 * [Book: Thomas M. Cover - Elements of Information Theory](https://www.amazon.com/Elements-Information-Theory-Telecommunications-Processing/dp/0471241954)
 * [Book: Ming Li  - An Introduction to Kolmogorov Complexity and Its Applications](https://www.amazon.com/Introduction-Kolmogorov-Complexity-Applications-Computer/dp/0387339981)
 
+- randomness
+- Information density 
+- dimensionality reduction
+- laws of theormodynamics 
+
 https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
 
 ### Computation
@@ -98,6 +103,8 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 * Thermodynamics
 -Neural networks
 - Biological poulations (movment of human populations/ Bak-Sneppen model): story of life in the Universe is an example of surface complexity built upon foundations of simple rules.
+- ants eusocial insects (aided by group selection - single super organism) 
+- Evolution (individual selection, kin selection, reciprocal altruism) 
 - Genetic analysis (interactions during evolution/ evolution as complexification of organisms/ tree of life)
 -pubMed for complex gene analysis 
 - Geoscinece/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system / Daisyworld model)
