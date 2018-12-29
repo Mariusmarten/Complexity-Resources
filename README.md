@@ -38,6 +38,7 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 
 ### Fractals/ Scale
+- Definition: fractal video (Definition dimension)
 - Elliot waves
 * https://github.com/Tenchi2xh/Almonds
 * [Video: 3Blue1Brown - Fractals are typically not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4)
@@ -62,6 +63,7 @@ https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-
 ### Information theory:
 * [Book: Thomas M. Cover - Elements of Information Theory](https://www.amazon.com/Elements-Information-Theory-Telecommunications-Processing/dp/0471241954)
 * [Book: Ming Li  - An Introduction to Kolmogorov Complexity and Its Applications](https://www.amazon.com/Introduction-Kolmogorov-Complexity-Applications-Computer/dp/0387339981)
+(structure from wikipedia / add additional information)
 
 - randomness
 - Information density 
@@ -71,6 +73,7 @@ https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-
 https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
 
 ### Computation
+What does computing mean?
 - Neural computation
 - collective computation (swarm intelligence)
 - nature-inspired computation (e.g. immune system)
