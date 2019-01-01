@@ -37,6 +37,9 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 
+
+-add self-organization and emergence 
+
 ### Fractals/ Scale
 - Definition: fractal video (Definition dimension)
 - Elliot waves
