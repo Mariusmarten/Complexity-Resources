@@ -122,6 +122,8 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
   <img width="540" height="409" src="visual_complexity2.png">
 </p>
 
+- change picture to betwork theory and add background about this theory 
+
 ## Software
 * [Software: Chaos - Book from James Gleick](https://github.com/rudyrucker/chaos)
 * [Software: Think Complexity](https://github.com/AllenDowney/ThinkComplexity2)
