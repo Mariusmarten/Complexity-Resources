@@ -39,6 +39,7 @@ https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_t
 
 
 -add self-organization and emergence 
+-add scaling (especially in biological systems) 
 
 ### Fractals/ Scale
 - Definition: fractal video (Definition dimension)
