@@ -39,7 +39,9 @@ https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_t
 
 
 -add self-organization and emergence 
--add scaling (especially in biological systems) 
+-add scaling (especially in biological systems)
+- Network science (science of networks applied to real-world networks) / examples brains etc. 
+- Evolution of complex (adaptive) systems 
 
 ### Fractals/ Scale
 - Definition: fractal video (Definition dimension)
