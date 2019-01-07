@@ -120,6 +120,7 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 - Geoscinece/ Meterology (Earthquakes / Idea of Gaia, the Earth as a self-regulating system / Daisyworld model)
 (https://serc.carleton.edu/NAGTWorkshops/complexsystems/activities/daisyworld.html)
 
+- add pictures into text / include pictures on fitting on points (+ sources of pictures) 
 
 <p align="center">
   <img width="540" height="409" src="visual_complexity2.png">
