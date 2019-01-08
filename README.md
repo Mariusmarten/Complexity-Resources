@@ -30,6 +30,7 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 * [Movie: The most unknown](https://www.themostunknown.com)
 
 ## Advanced Complex Systems
+- Merge advanced / research; different sections and subsections 
 * [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
 * [Videos: Complexity Labs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
 * [Book: Cristoforo Sergio Bertuglia - Nonlinearity, Chaos, and Complexity: The Dynamics of Natural and Social Systems](https://www.amazon.com/Nonlinearity-Chaos-Complexity-Dynamics-Natural/dp/0198567901): Modelling, Mechanics, Linearity as first approximation, pendulum as natural nonlinear process, phase space, mathematical economics, economic cycle, chaotic pendulum, social processes: two interacting populations + nonlinearity (Volterra-Lotka model), chaos, strange and chaotic attractors, stability in dynamic systems, measuring chaos in real systems, logistic growth, logisitc map, complexity, inadequacy of reductionism, determinism, self-organization, complexity and evolution
