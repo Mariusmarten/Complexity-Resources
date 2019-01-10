@@ -95,6 +95,17 @@ Phase space, orbit, basin of attraction and attractor are all mathematical conce
 The Lyapunov exponents provides a measurment of the stability of a dynamical system, they quantify the level of chaos by indicating the speed of growth (instability) or reduction (stability). The sum of these exponents known as the Kolmogorov–Sinai entropy it is an indicator of the extent to which the system is unpredictable (the higher, the less predictable).
 
 ## Complexity Paper
+
+History (add more detailed history):
+- Science oldest cliche, the idea of hidden unity and common underlying form in nature had an intrinsic appeal.
+- Chaos started with weather in 1960s
+- Lorenz Paper of deterministic nonperiodic flow (For a long time people who like
+mathematics tend toward physics, maths or economics than the other life sciences)
+- Phase Space
+- Feigenbaum sequence of bifurcations
+- vernon mountcastle​, similar to darwins idea of a simple algorithm - mountcastle
+says the same about the brain
+
 - Poincare
 - Mandelbrot 
 -Chao Tang and Kurt Wiesenfeld; sandpile model
