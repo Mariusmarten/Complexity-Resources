@@ -29,6 +29,8 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 * [Video: Stanford/Robert Sapolsky - Emergence and Complexity](https://www.youtube.com/watch?v=o_ZuWbX-CyE&t=537s)
 * [Movie: The most unknown](https://www.themostunknown.com)
 
+- add things from man and machine to complexity 
+
 ## Advanced Complex Systems
 - Merge advanced / research; different sections and subsections 
 * [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
