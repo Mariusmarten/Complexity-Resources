@@ -83,6 +83,7 @@ https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_th
 
 ### Computation
 What does computing mean?
+- biological and evolutionary computation
 - Neural computation
 - collective computation (swarm intelligence)
 - nature-inspired computation (e.g. immune system)
