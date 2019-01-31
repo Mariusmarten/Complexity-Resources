@@ -191,6 +191,7 @@ https://www.santafe.edu
 * [Complex Systems Society](https://cssociety.org/home)
 * [Netherlands Platform Complex Systems (NPCS)](https://www.npcs.nl)
 * [Fractals Foundation](https://fractalfoundation.org/resources/what-is-chaos-theory/)
+https://systemsbiology.org/about/overview/
 
 Monash University, Victoria
 
