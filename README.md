@@ -77,6 +77,8 @@ https://www.quantamagazine.org/the-beautiful-intelligence-of-bacteria-and-other-
 - dimensionality reduction
 - laws of theormodynamics 
 
+Information as form of energy? (eg speech as pressure wave is reducable to energy states)
+
 https://www.reddit.com/r/compsci/comments/1prnxi/complexity_theoryinformation_theory_reading/
 
 ### Computation
