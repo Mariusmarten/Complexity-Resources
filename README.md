@@ -38,6 +38,8 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 
+Introduction to the Theory of Complex Systems (https://www.amazon.de/dp/019882193X/?coliid=IOKMVXSNM5M11&colid=1PG67OYJY5QZY&psc=0&ref_=lv_ov_lig_dp_it)
+
 
 -add self-organization and emergence 
 -add scaling (especially in biological systems)
