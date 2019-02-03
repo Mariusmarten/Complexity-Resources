@@ -159,7 +159,7 @@ Economies are self-organizing systems they are dealing with dynamic, changing sy
 * [Video: Stated Clearly - What Is the RNA World Hypothesis?](https://www.youtube.com/watch?v=K1xnYFCZ9Yg:idea that chains of RNA may have been the first things to replicate and evolve
 * [Video: Stated Clearly - What Caused Life's Major Evolutionary Transitions?](https://www.youtube.com/watch?v=VUfNEHl44hc):
 (https://www.nature.com/articles/374227a0)
-* https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-019-00215-9%3Futm_source%3Dtwt_nnc%26utm_medium%3Dsocial%26utm_campaign%3Dnaturenews%26sf206461964%3D1
+* Maxwell’s demon and the hunt for alien life: https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-019-00215-9%3Futm_source%3Dtwt_nnc%26utm_medium%3Dsocial%26utm_campaign%3Dnaturenews%26sf206461964%3D1
 
 ### Computational modeling
 'What I cannot create, I do not understand.' - Richard Feynman
