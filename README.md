@@ -27,6 +27,8 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 * [Video: Stanford/Robert Sapolsky - Emergence and Complexity](https://www.youtube.com/watch?v=o_ZuWbX-CyE&t=537s)
 * [Movie: The most unknown](https://www.themostunknown.com)
 
+https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
+
 - add things from man and machine to complexity 
 
 ## Advanced Complex Systems
@@ -35,14 +37,10 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 * [Videos: Complexity Labs](http://complexitylabs.io/videos-home/): critical thinking, systems thinking, network theory, systems theory, adaptive systems, emergence, game theory, complexity theory, nonlinear systems, social complexity, systems ecology, complexity economics, financial complexity
 * [Book: Cristoforo Sergio Bertuglia - Nonlinearity, Chaos, and Complexity: The Dynamics of Natural and Social Systems](https://www.amazon.com/Nonlinearity-Chaos-Complexity-Dynamics-Natural/dp/0198567901): Modelling, Mechanics, Linearity as first approximation, pendulum as natural nonlinear process, phase space, mathematical economics, economic cycle, chaotic pendulum, social processes: two interacting populations + nonlinearity (Volterra-Lotka model), chaos, strange and chaotic attractors, stability in dynamic systems, measuring chaos in real systems, logistic growth, logisitc map, complexity, inadequacy of reductionism, determinism, self-organization, complexity and evolution
 * [Book: Melanie Mitchelln - Complexity: A guided tour](): background and history, information, computation, evolution, genetics, life and evolution in computers, cellular automata, information processing in living systems, network thinking, mystery of scaling, evolution, complexified
+* [Book: Stefan Thurner Introduction to the Theory of Complex Systems](https://www.amazon.de/dp/019882193X/?coliid=IOKMVXSNM5M11&colid=1PG67OYJY5QZY&psc=0&ref_=lv_ov_lig_dp_it)
 
-https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
-
-Introduction to the Theory of Complex Systems (https://www.amazon.de/dp/019882193X/?coliid=IOKMVXSNM5M11&colid=1PG67OYJY5QZY&psc=0&ref_=lv_ov_lig_dp_it)
-
-
--add self-organization and emergence 
--add scaling (especially in biological systems)
+- add self-organization and emergence 
+- add scaling (especially in biological systems)
 - Network science (science of networks applied to real-world networks) / examples brains etc. 
 - Evolution of complex (adaptive) systems 
 
@@ -62,8 +60,6 @@ Related research fields/buzzwords: modeling artificial life, choas theory, genet
 * [Videos: 2018 Santa Fe Institute Complexity Labs](https://www.complexityexplorer.org/courses): wide range of courses and tutorials. Introduction to Complexity, Nonlinear Dynamics: Mathematical and Computational Approaches, Introduction to Dynamical Systems and Chaos, Fractals and Scaling, Algorithmic Information Dynamics.
 
 - MIT books
-
-Introduction to the Theory of Complex Systems (https://global.oup.com/academic/product/introduction-to-the-theory-of-complex-systems-9780198821939?cc=au&lang=en&)
 
 * [Lecture: Series on Chaos, Fractals and Dynamical Systems by Prof. S. Banerjee (IIT Kharagpur)](https://www.youtube.com/watch?v=mkfU9zVNGkQ&list=PLF07D9DF54FE3D3EF1)
 
@@ -170,13 +166,11 @@ A model, intrinsically, is a partial representation of several aspects of realit
 
 All sciences have the identification and prediction of the evolution of systems over time in common, for this purpose modeling is well suited.
 
-
-* neuroscience
+- neuroscience
 - econometrics/ econophysics
 - population modeling/ ecosystems
 - weather forecast
 - protein folding
-- 
 
 
 <p align="center">
