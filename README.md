@@ -26,6 +26,8 @@ Butterﬂy effect: even initial situations that are very close to one another ma
 * [Video: Stanford/Robert Sapolsky - Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
 * [Video: Stanford/Robert Sapolsky - Emergence and Complexity](https://www.youtube.com/watch?v=o_ZuWbX-CyE&t=537s)
 * [Movie: The most unknown](https://www.themostunknown.com)
+* [Video: Physical perspective on entropy vs. complexity](https://www.youtube.com/watch?v=uefwgz4cY20)
+
 
 https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_theory_courseware/
 
