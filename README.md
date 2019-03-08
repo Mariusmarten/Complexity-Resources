@@ -101,6 +101,8 @@ The Lyapunov exponents provides a measurment of the stability of a dynamical sys
 ## Complexity Paper
 
 History (add more detailed history):
+- Warren Weaver (1948) - Science & Complexity
+
 - Science oldest cliche, the idea of hidden unity and common underlying form in nature had an intrinsic appeal.
 - Chaos started with weather in 1960s
 - Lorenz Paper of deterministic nonperiodic flow (For a long time people who like
