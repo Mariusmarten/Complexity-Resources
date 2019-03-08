@@ -40,7 +40,7 @@ https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_t
 * [Book: Cristoforo Sergio Bertuglia - Nonlinearity, Chaos, and Complexity: The Dynamics of Natural and Social Systems](https://www.amazon.com/Nonlinearity-Chaos-Complexity-Dynamics-Natural/dp/0198567901): Modelling, Mechanics, Linearity as first approximation, pendulum as natural nonlinear process, phase space, mathematical economics, economic cycle, chaotic pendulum, social processes: two interacting populations + nonlinearity (Volterra-Lotka model), chaos, strange and chaotic attractors, stability in dynamic systems, measuring chaos in real systems, logistic growth, logisitc map, complexity, inadequacy of reductionism, determinism, self-organization, complexity and evolution
 * [Book: Melanie Mitchelln - Complexity: A guided tour](https://www.amazon.de/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109/ref=sr_1_1?ie=UTF8&qid=1552088901&sr=8-1&keywords=Complexity%3A+A+guided+tour): background and history, information, computation, evolution, genetics, life and evolution in computers, cellular automata, information processing in living systems, network thinking, * mystery of scaling, evolution, complexified
 * [Video: Melanie Mitchelln - Teaser talk for her book](https://www.youtube.com/watch?v=6t15xgJ-h8A&t=1207s)
-* [Book: Stefan Thurner Introduction to the Theory of Complex Systems](https://www.amazon.de/dp/019882193X/?coliid=IOKMVXSNM5M11&colid=1PG67OYJY5QZY&psc=0&ref_=lv_ov_lig_dp_it)
+* [Book: Stefan Thurner - Introduction to the Theory of Complex Systems](https://www.amazon.de/dp/019882193X/?coliid=IOKMVXSNM5M11&colid=1PG67OYJY5QZY&psc=0&ref_=lv_ov_lig_dp_it)
 
 - add self-organization and emergence 
 - add scaling (especially in biological systems)
