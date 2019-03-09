@@ -33,6 +33,8 @@ https://www.reddit.com/r/compsci/comments/91ocq7/recommendation_for_complexity_t
 
 - add things from man and machine to complexity 
 
+'It's better to have questions you can‘t answer than having answers you can‘t question.'
+
 ## Advanced Complex Systems
 - Merge advanced / research; different sections and subsections 
 * [Website: Complexity Labs](http://complexitylabs.io): an online platform for the research, education, analysis and design of complex systems. Posts, Magazins, Videos, Books and Paper are available.
