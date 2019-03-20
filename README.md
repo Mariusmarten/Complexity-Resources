@@ -185,6 +185,7 @@ All sciences have the identification and prediction of the evolution of systems 
 </p>
 
 ## Other Resources 
+* [Talk: Complex systems and the brain: From networks to dynamics and function](https://www.youtube.com/watch?v=TuLlzE7uHNo)
 
 #### Persons to follow:
 
