@@ -226,3 +226,5 @@ http://understandingthecomplex.blogspot.com
 http://www.if.pw.edu.pl/~agatka/catalogue/soc.html
 
 http://chaosbook.org
+
+Better to have questions you can‘t answer than having answers you can‘t question.
